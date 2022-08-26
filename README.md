@@ -2,7 +2,7 @@
 
 # learning something new
 
-# learning merge
+# reading merge
 
 # learning rebase
 
