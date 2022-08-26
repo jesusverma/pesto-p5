@@ -1,4 +1,4 @@
-# pesto-p5
+# pesto-tech-p5
 
 # learning something new
 
@@ -8,4 +8,4 @@
 
 # write login feature
 
-# added login/signup
+# read login/signup
