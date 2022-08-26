@@ -1,3 +1,3 @@
 function zoo() {
-  console.log('🚀 ~ file: zoo.js ~ line 2 ~ zoo ~ zoo', zoo)
+  console.log('going to change here by user1')
 }
