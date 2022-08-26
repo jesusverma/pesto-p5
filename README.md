@@ -1,11 +1,11 @@
-# pesto-p5
+# pesto-tech-p5
 
 # reading something new
 
-# learning merge
+# learning merge changes1
 
 # learning rebase
 
 # added login feature
 
-# added login/signup
+# read login/signup
