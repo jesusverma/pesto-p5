@@ -1,6 +1,6 @@
 # pesto-p5
 
-# learning something new
+# reading something new
 
 # learning merge
 
