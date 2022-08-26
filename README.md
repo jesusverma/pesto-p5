@@ -8,4 +8,4 @@
 
 # added login feature
 
-# added login/signup
+# read login/signup
